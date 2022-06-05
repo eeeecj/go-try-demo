@@ -23,4 +23,5 @@ func main() {
 		cuslog.WithFormatter(&cuslog.JsonFormatter{IgnoreBasicFields: false}),
 	)
 	l.Info("custom log with json formatter")
+	l.Debug("custom log with json formatter 2")
 }

@@ -1,0 +1,254 @@
+2022-06-05 16:15:25.782	[35mDEBUG[0m	This is a debug message
+2022-06-05 16:15:25.797	[34mINFO[0m	This is a info message	{"int_key": 10}
+2022-06-05 16:15:25.798	[33mWARN[0m	This is a formatted warn message
+2022-06-05 16:15:25.798	[31mERROR[0m	Message printed with Errorw	{"X-Request-ID": "fbf54504-64da-4088-9b86-67824a7fb508"}
+2022-06-05 16:15:25.798	[34mINFO[0m	Info message printed with [WithValues] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:15:25.798	[34mINFO[0m	Debug message printed with [WithValues] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:15:25.798	[34mINFO[0m	Message printed with [WithContext] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:15:25.798	[34mINFO[0m	test	Message printed with [WithName] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:15:25.799	[35mDEBUG[0m	This is a V level message
+2022-06-05 16:15:25.799	[35mDEBUG[0m	This is a V level message with fields	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:22:57.469	[35mDEBUG[0m	This is a debug message
+2022-06-05 16:22:57.484	[34mINFO[0m	This is a info message	{"int_key": 10}
+2022-06-05 16:22:57.484	[33mWARN[0m	This is a formatted warn message
+2022-06-05 16:22:57.484	[31mERROR[0m	Message printed with Errorw	{"X-Request-ID": "fbf54504-64da-4088-9b86-67824a7fb508"}
+2022-06-05 16:22:57.484	[34mINFO[0m	Info message printed with [WithValues] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:22:57.484	[34mINFO[0m	Debug message printed with [WithValues] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:22:57.485	[34mINFO[0m	Message printed with [WithContext] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:22:57.485	[34mINFO[0m	test	Message printed with [WithName] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:22:57.485	[35mDEBUG[0m	This is a V level message
+2022-06-05 16:22:57.485	[35mDEBUG[0m	This is a V level message with fields	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:29:28.206	[35mDEBUG[0m	This is a debug message
+2022-06-05 16:29:28.220	[34mINFO[0m	This is a info message	{"int_key": 10}
+2022-06-05 16:29:28.220	[33mWARN[0m	This is a formatted warn message
+2022-06-05 16:29:28.220	[31mERROR[0m	Message printed with Errorw	{"X-Request-ID": "fbf54504-64da-4088-9b86-67824a7fb508"}
+2022-06-05 16:29:28.220	[34mINFO[0m	Info message printed with [WithValues] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:29:28.220	[34mINFO[0m	Debug message printed with [WithValues] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:29:28.220	[34mINFO[0m	Message printed with [WithContext] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:29:28.220	[34mINFO[0m	test	Message printed with [WithName] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:29:40.741	[35mDEBUG[0m	This is a debug message
+2022-06-05 16:29:40.755	[34mINFO[0m	This is a info message	{"int_key": 10}
+2022-06-05 16:29:40.755	[33mWARN[0m	This is a formatted warn message
+2022-06-05 16:29:40.755	[31mERROR[0m	Message printed with Errorw	{"X-Request-ID": "fbf54504-64da-4088-9b86-67824a7fb508"}
+2022-06-05 16:29:40.755	[34mINFO[0m	Info message printed with [WithValues] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:29:40.756	[34mINFO[0m	Debug message printed with [WithValues] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:29:40.756	[34mINFO[0m	Message printed with [WithContext] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:29:40.756	[34mINFO[0m	test	Message printed with [WithName] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:29:51.984	[35mDEBUG[0m	This is a debug message
+2022-06-05 16:29:51.999	[34mINFO[0m	This is a info message	{"int_key": 10}
+2022-06-05 16:29:51.999	[33mWARN[0m	This is a formatted warn message
+2022-06-05 16:29:51.999	[31mERROR[0m	Message printed with Errorw	{"X-Request-ID": "fbf54504-64da-4088-9b86-67824a7fb508"}
+2022-06-05 16:29:52.000	[34mINFO[0m	Info message printed with [WithValues] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:29:52.000	[34mINFO[0m	Debug message printed with [WithValues] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:29:52.000	[34mINFO[0m	Message printed with [WithContext] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:29:52.000	[34mINFO[0m	test	Message printed with [WithName] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:30:06.797	[35mDEBUG[0m	This is a debug message
+2022-06-05 16:30:06.811	[34mINFO[0m	This is a info message	{"int_key": 10}
+2022-06-05 16:30:06.811	[33mWARN[0m	This is a formatted warn message
+2022-06-05 16:30:06.811	[31mERROR[0m	Message printed with Errorw	{"X-Request-ID": "fbf54504-64da-4088-9b86-67824a7fb508"}
+2022-06-05 16:30:06.811	[34mINFO[0m	Info message printed with [WithValues] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:30:06.811	[34mINFO[0m	Debug message printed with [WithValues] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:30:06.811	[34mINFO[0m	Message printed with [WithContext] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:30:06.811	[34mINFO[0m	test	Message printed with [WithName] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:30:06.812	[33mWARN[0m	This is a V level message
+2022-06-05 16:30:22.464	[35mDEBUG[0m	This is a debug message
+2022-06-05 16:30:22.479	[34mINFO[0m	This is a info message	{"int_key": 10}
+2022-06-05 16:30:22.479	[33mWARN[0m	This is a formatted warn message
+2022-06-05 16:30:22.479	[31mERROR[0m	Message printed with Errorw	{"X-Request-ID": "fbf54504-64da-4088-9b86-67824a7fb508"}
+2022-06-05 16:30:22.479	[34mINFO[0m	Info message printed with [WithValues] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:30:22.480	[34mINFO[0m	Debug message printed with [WithValues] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:30:22.480	[34mINFO[0m	Message printed with [WithContext] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:30:22.480	[34mINFO[0m	test	Message printed with [WithName] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:30:22.480	[33mWARN[0m	This is a V level message
+2022-06-05 16:30:37.119	[35mDEBUG[0m	This is a debug message
+2022-06-05 16:30:37.134	[34mINFO[0m	This is a info message	{"int_key": 10}
+2022-06-05 16:30:37.134	[33mWARN[0m	This is a formatted warn message
+2022-06-05 16:30:37.134	[31mERROR[0m	Message printed with Errorw	{"X-Request-ID": "fbf54504-64da-4088-9b86-67824a7fb508"}
+2022-06-05 16:30:37.135	[34mINFO[0m	Info message printed with [WithValues] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:30:37.135	[34mINFO[0m	Debug message printed with [WithValues] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:30:37.135	[34mINFO[0m	Message printed with [WithContext] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:30:37.135	[34mINFO[0m	test	Message printed with [WithName] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:30:37.135	[31mLEVEL(56)[0m	This is a V level message
+awesomeProject.(*infoLogger).Info
+	F:/workspace/VScode/项目/IAM/try-demo/awesomeProject/log.go:95
+main.main
+	F:/workspace/VScode/项目/IAM/try-demo/awesomeProject/examples/main.go:61
+runtime.main
+	D:/Go/src/runtime/proc.go:255
+2022-06-05 16:31:19.902	[35mDEBUG[0m	This is a debug message
+2022-06-05 16:31:19.924	[34mINFO[0m	This is a info message	{"int_key": 10}
+2022-06-05 16:31:19.925	[33mWARN[0m	This is a formatted warn message
+2022-06-05 16:31:19.925	[31mERROR[0m	Message printed with Errorw	{"X-Request-ID": "fbf54504-64da-4088-9b86-67824a7fb508"}
+2022-06-05 16:31:19.925	[34mINFO[0m	Info message printed with [WithValues] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:31:19.925	[34mINFO[0m	Debug message printed with [WithValues] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:31:19.925	[34mINFO[0m	Message printed with [WithContext] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:31:19.925	[34mINFO[0m	test	Message printed with [WithName] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:31:19.925	[35mDEBUG[0m	This is a V level message
+2022-06-05 16:31:28.731	[35mDEBUG[0m	This is a debug message
+2022-06-05 16:31:28.746	[34mINFO[0m	This is a info message	{"int_key": 10}
+2022-06-05 16:31:28.746	[33mWARN[0m	This is a formatted warn message
+2022-06-05 16:31:28.746	[31mERROR[0m	Message printed with Errorw	{"X-Request-ID": "fbf54504-64da-4088-9b86-67824a7fb508"}
+2022-06-05 16:31:28.746	[34mINFO[0m	Info message printed with [WithValues] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:31:28.746	[34mINFO[0m	Debug message printed with [WithValues] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:31:28.746	[34mINFO[0m	Message printed with [WithContext] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:31:28.746	[34mINFO[0m	test	Message printed with [WithName] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:31:28.746	[35mDEBUG[0m	This is a V level message
+2022-06-05 16:31:28.747	[35mDEBUG[0m	This is a V level message with fields	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:33:23.519	[35mDEBUG[0m	This is a debug message
+2022-06-05 16:33:23.544	[34mINFO[0m	This is a info message	{"int_key": 10}
+2022-06-05 16:33:23.544	[33mWARN[0m	This is a formatted warn message
+2022-06-05 16:33:23.544	[31mERROR[0m	Message printed with Errorw	{"X-Request-ID": "fbf54504-64da-4088-9b86-67824a7fb508"}
+2022-06-05 16:33:23.544	[34mINFO[0m	Info message printed with [WithValues] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:33:23.544	[34mINFO[0m	Debug message printed with [WithValues] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:33:23.544	[34mINFO[0m	Message printed with [WithContext] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:33:23.544	[34mINFO[0m	test	Message printed with [WithName] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:33:33.065	[35mDEBUG[0m	This is a debug message
+2022-06-05 16:33:33.079	[34mINFO[0m	This is a info message	{"int_key": 10}
+2022-06-05 16:33:33.079	[33mWARN[0m	This is a formatted warn message
+2022-06-05 16:33:33.079	[31mERROR[0m	Message printed with Errorw	{"X-Request-ID": "fbf54504-64da-4088-9b86-67824a7fb508"}
+2022-06-05 16:33:33.080	[34mINFO[0m	Info message printed with [WithValues] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:33:33.080	[34mINFO[0m	Debug message printed with [WithValues] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:33:33.080	[34mINFO[0m	Message printed with [WithContext] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:33:33.080	[34mINFO[0m	test	Message printed with [WithName] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:33:41.333	[35mDEBUG[0m	This is a debug message
+2022-06-05 16:33:41.349	[34mINFO[0m	This is a info message	{"int_key": 10}
+2022-06-05 16:33:41.349	[33mWARN[0m	This is a formatted warn message
+2022-06-05 16:33:41.349	[31mERROR[0m	Message printed with Errorw	{"X-Request-ID": "fbf54504-64da-4088-9b86-67824a7fb508"}
+2022-06-05 16:33:41.349	[34mINFO[0m	Info message printed with [WithValues] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:33:41.349	[34mINFO[0m	Debug message printed with [WithValues] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:33:41.350	[34mINFO[0m	Message printed with [WithContext] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:33:41.350	[34mINFO[0m	test	Message printed with [WithName] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:37:22.169	[35mDEBUG[0m	This is a debug message
+2022-06-05 16:37:22.184	[34mINFO[0m	This is a info message	{"int_key": 10}
+2022-06-05 16:37:22.184	[33mWARN[0m	This is a formatted warn message
+2022-06-05 16:37:22.184	[31mERROR[0m	Message printed with Errorw	{"X-Request-ID": "fbf54504-64da-4088-9b86-67824a7fb508"}
+2022-06-05 16:37:22.184	[34mINFO[0m	Info message printed with [WithValues] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:37:22.184	[34mINFO[0m	Debug message printed with [WithValues] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:37:22.185	[34mINFO[0m	Message printed with [WithContext] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:37:22.185	[34mINFO[0m	test	Message printed with [WithName] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:42:05.111	[35mDEBUG[0m	This is a debug message
+2022-06-05 16:42:05.128	[34mINFO[0m	This is a info message	{"int_key": 10}
+2022-06-05 16:42:05.128	[33mWARN[0m	This is a formatted warn message
+2022-06-05 16:42:05.128	[31mERROR[0m	Message printed with Errorw	{"X-Request-ID": "fbf54504-64da-4088-9b86-67824a7fb508"}
+2022-06-05 16:42:05.128	[34mINFO[0m	Info message printed with [WithValues] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:42:05.128	[34mINFO[0m	Debug message printed with [WithValues] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:42:05.128	[34mINFO[0m	Message printed with [WithContext] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:42:05.129	[34mINFO[0m	test	Message printed with [WithName] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:42:13.851	[35mDEBUG[0m	This is a debug message
+2022-06-05 16:42:13.866	[34mINFO[0m	This is a info message	{"int_key": 10}
+2022-06-05 16:42:13.866	[33mWARN[0m	This is a formatted warn message
+2022-06-05 16:42:13.866	[31mERROR[0m	Message printed with Errorw	{"X-Request-ID": "fbf54504-64da-4088-9b86-67824a7fb508"}
+2022-06-05 16:42:13.866	[34mINFO[0m	Info message printed with [WithValues] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:42:13.867	[34mINFO[0m	Debug message printed with [WithValues] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:42:13.867	[34mINFO[0m	Message printed with [WithContext] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:42:13.867	[34mINFO[0m	test	Message printed with [WithName] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:42:13.868	[33mWARN[0m	This is a V level message
+2022-06-05 16:42:26.196	[35mDEBUG[0m	This is a debug message
+2022-06-05 16:42:26.214	[34mINFO[0m	This is a info message	{"int_key": 10}
+2022-06-05 16:42:26.214	[33mWARN[0m	This is a formatted warn message
+2022-06-05 16:42:26.214	[31mERROR[0m	Message printed with Errorw	{"X-Request-ID": "fbf54504-64da-4088-9b86-67824a7fb508"}
+2022-06-05 16:42:26.214	[34mINFO[0m	Info message printed with [WithValues] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:42:26.214	[34mINFO[0m	Debug message printed with [WithValues] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:42:26.214	[34mINFO[0m	Message printed with [WithContext] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:42:26.214	[34mINFO[0m	test	Message printed with [WithName] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:42:26.215	[33mWARN[0m	This is a V level message
+2022-06-05 16:42:26.215	[31mLEVEL(20)[0m	This is a V level message with fields	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+awesomeProject.(*infoLogger).Infow
+	F:/workspace/VScode/项目/IAM/try-demo/awesomeProject/log.go:107
+main.main
+	F:/workspace/VScode/项目/IAM/try-demo/awesomeProject/examples/main.go:64
+runtime.main
+	D:/Go/src/runtime/proc.go:255
+2022-06-05 16:43:39.077	[35mDEBUG[0m	This is a debug message
+2022-06-05 16:43:39.091	[34mINFO[0m	This is a info message	{"int_key": 10}
+2022-06-05 16:43:39.091	[33mWARN[0m	This is a formatted warn message
+2022-06-05 16:43:39.092	[31mERROR[0m	Message printed with Errorw	{"X-Request-ID": "fbf54504-64da-4088-9b86-67824a7fb508"}
+2022-06-05 16:43:39.092	[34mINFO[0m	Info message printed with [WithValues] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:43:39.092	[34mINFO[0m	Debug message printed with [WithValues] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:43:39.092	[34mINFO[0m	Message printed with [WithContext] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:43:39.092	[34mINFO[0m	test	Message printed with [WithName] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:43:39.092	[33mWARN[0m	This is a V level message
+2022-06-05 16:43:39.092	[31mLEVEL(20)[0m	This is a V level message with fields	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+awesomeProject.(*infoLogger).Infow
+	F:/workspace/VScode/项目/IAM/try-demo/awesomeProject/log.go:108
+main.main
+	F:/workspace/VScode/项目/IAM/try-demo/awesomeProject/examples/main.go:64
+runtime.main
+	D:/Go/src/runtime/proc.go:255
+2022-06-05 16:45:31.128	[35mDEBUG[0m	This is a debug message
+2022-06-05 16:45:31.141	[34mINFO[0m	This is a info message	{"int_key": 10}
+2022-06-05 16:45:31.141	[33mWARN[0m	This is a formatted warn message
+2022-06-05 16:45:31.141	[31mERROR[0m	Message printed with Errorw	{"X-Request-ID": "fbf54504-64da-4088-9b86-67824a7fb508"}
+2022-06-05 16:45:31.141	[34mINFO[0m	Info message printed with [WithValues] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:45:31.142	[34mINFO[0m	Debug message printed with [WithValues] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:45:31.142	[34mINFO[0m	Message printed with [WithContext] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:45:31.142	[34mINFO[0m	test	Message printed with [WithName] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:45:31.142	[33mWARN[0m	This is a V level message
+2022-06-05 16:45:48.187	[35mDEBUG[0m	This is a debug message
+2022-06-05 16:45:48.200	[34mINFO[0m	This is a info message	{"int_key": 10}
+2022-06-05 16:45:48.200	[33mWARN[0m	This is a formatted warn message
+2022-06-05 16:45:48.200	[31mERROR[0m	Message printed with Errorw	{"X-Request-ID": "fbf54504-64da-4088-9b86-67824a7fb508"}
+2022-06-05 16:45:48.201	[34mINFO[0m	Info message printed with [WithValues] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:45:48.201	[34mINFO[0m	Debug message printed with [WithValues] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:45:48.201	[34mINFO[0m	Message printed with [WithContext] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:45:48.201	[34mINFO[0m	test	Message printed with [WithName] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:45:48.201	[33mWARN[0m	This is a V level message
+2022-06-05 16:45:48.201	[31mERROR[0m	This is a V level message with fields	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:45:55.763	[35mDEBUG[0m	This is a debug message
+2022-06-05 16:45:55.777	[34mINFO[0m	This is a info message	{"int_key": 10}
+2022-06-05 16:45:55.778	[33mWARN[0m	This is a formatted warn message
+2022-06-05 16:45:55.778	[31mERROR[0m	Message printed with Errorw	{"X-Request-ID": "fbf54504-64da-4088-9b86-67824a7fb508"}
+2022-06-05 16:45:55.778	[34mINFO[0m	Info message printed with [WithValues] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:45:55.778	[34mINFO[0m	Debug message printed with [WithValues] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:45:55.778	[34mINFO[0m	Message printed with [WithContext] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:45:55.778	[34mINFO[0m	test	Message printed with [WithName] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:45:55.778	[33mWARN[0m	This is a V level message
+2022-06-05 16:45:55.779	[31mDPANIC[0m	This is a V level message with fields	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:46:00.936	[35mDEBUG[0m	This is a debug message
+2022-06-05 16:46:00.949	[34mINFO[0m	This is a info message	{"int_key": 10}
+2022-06-05 16:46:00.950	[33mWARN[0m	This is a formatted warn message
+2022-06-05 16:46:00.950	[31mERROR[0m	Message printed with Errorw	{"X-Request-ID": "fbf54504-64da-4088-9b86-67824a7fb508"}
+2022-06-05 16:46:00.950	[34mINFO[0m	Info message printed with [WithValues] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:46:00.950	[34mINFO[0m	Debug message printed with [WithValues] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:46:00.950	[34mINFO[0m	Message printed with [WithContext] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:46:00.950	[34mINFO[0m	test	Message printed with [WithName] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:46:00.950	[33mWARN[0m	This is a V level message
+2022-06-05 16:46:00.950	[31mPANIC[0m	This is a V level message with fields	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+awesomeProject.(*infoLogger).Infow
+	F:/workspace/VScode/项目/IAM/try-demo/awesomeProject/log.go:108
+main.main
+	F:/workspace/VScode/项目/IAM/try-demo/awesomeProject/examples/main.go:64
+runtime.main
+	D:/Go/src/runtime/proc.go:255
+2022-06-05 16:46:09.180	[35mDEBUG[0m	This is a debug message
+2022-06-05 16:46:09.195	[34mINFO[0m	This is a info message	{"int_key": 10}
+2022-06-05 16:46:09.195	[33mWARN[0m	This is a formatted warn message
+2022-06-05 16:46:09.195	[31mERROR[0m	Message printed with Errorw	{"X-Request-ID": "fbf54504-64da-4088-9b86-67824a7fb508"}
+2022-06-05 16:46:09.195	[34mINFO[0m	Info message printed with [WithValues] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:46:09.195	[34mINFO[0m	Debug message printed with [WithValues] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:46:09.196	[34mINFO[0m	Message printed with [WithContext] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:46:09.196	[34mINFO[0m	test	Message printed with [WithName] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 16:46:09.196	[33mWARN[0m	This is a V level message
+2022-06-05 16:46:09.196	[31mFATAL[0m	This is a V level message with fields	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+awesomeProject.(*infoLogger).Infow
+	F:/workspace/VScode/项目/IAM/try-demo/awesomeProject/log.go:108
+main.main
+	F:/workspace/VScode/项目/IAM/try-demo/awesomeProject/examples/main.go:64
+runtime.main
+	D:/Go/src/runtime/proc.go:255
+2022-06-05 17:05:26.597	[35mDEBUG[0m	This is a debug message
+2022-06-05 17:05:26.613	[34mINFO[0m	This is a info message	{"int_key": 10}
+2022-06-05 17:05:26.613	[33mWARN[0m	This is a formatted warn message
+2022-06-05 17:05:26.613	[31mERROR[0m	Message printed with Errorw	{"X-Request-ID": "fbf54504-64da-4088-9b86-67824a7fb508"}
+2022-06-05 17:05:26.613	[34mINFO[0m	Info message printed with [WithValues] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 17:05:26.613	[34mINFO[0m	Debug message printed with [WithValues] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 17:05:26.613	[34mINFO[0m	Message printed with [WithContext] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 17:05:26.614	[34mINFO[0m	test	Message printed with [WithName] logger	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+2022-06-05 17:05:26.614	[33mWARN[0m	This is a V level message
+2022-06-05 17:05:26.614	[31mFATAL[0m	This is a V level message with fields	{"X-Request-ID": "7a7b9f24-4cae-4b2a-9464-69088b45b904"}
+awesomeProject.(*infoLogger).Infow
+	F:/workspace/VScode/项目/IAM/try-demo/awesomeProject/log.go:108
+main.main
+	F:/workspace/VScode/项目/IAM/try-demo/awesomeProject/examples/main.go:64
+runtime.main
+	D:/Go/src/runtime/proc.go:255

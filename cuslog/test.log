@@ -1,15 +1,1 @@
-{"file":"F:/workspace/VScode/项目/IAM/try-demo/cuslog/example/main.go:25","func":"main.main","level":"INFO","message":"custom log with json formatter","time":"2022-06-04T16:25:04+08:00"}
-{"file":"F:/workspace/VScode/项目/IAM/try-demo/cuslog/example/main.go:25","func":"main.main","level":"INFO","message":"custom log with json formatter","time":"2022-06-04T16:31:10+08:00"}
-{"file":"F:/workspace/VScode/项目/IAM/try-demo/cuslog/example/main.go:25","func":"main.main","level":"INFO","message":"custom log with json formatter","time":"2022-06-04T16:31:25+08:00"}
-{"file":"F:/workspace/VScode/项目/IAM/try-demo/cuslog/example/main.go:25","func":"main.main","level":"INFO","message":"custom log with json formatter","time":"2022-06-04T16:32:11+08:00"}
-{"file":"F:/workspace/VScode/项目/IAM/try-demo/cuslog/example/main.go:25","func":"main.main","level":"INFO","message":"custom log with json formatter","time":"2022-06-04T16:43:45+08:00"}
-{"file":"F:/workspace/VScode/项目/IAM/try-demo/cuslog/example/main.go:25","func":"main.main","level":"INFO","message":"custom log with json formatter","time":"2022-06-04T16:47:11+08:00"}
-{"file":"F:/workspace/VScode/项目/IAM/try-demo/cuslog/example/main.go:25","func":"main.main","level":"INFO","message":"custom log with json formatter","time":"2022-06-04T16:48:08+08:00"}
-{"file":"F:/workspace/VScode/项目/IAM/try-demo/cuslog/example/main.go:25","func":"main.main","level":"INFO","message":"custom log with json formatter","time":"2022-06-04T16:48:21+08:00"}
-{"file":"F:/workspace/VScode/项目/IAM/try-demo/cuslog/example/main.go:25","func":"main.main","level":"INFO","message":"custom log with json formatter","time":"2022-06-04T16:48:41+08:00"}
-{"file":"F:/workspace/VScode/项目/IAM/try-demo/cuslog/example/main.go:25","func":"main.main","level":"INFO","message":"custom log with json formatter","time":"2022-06-04T16:50:36+08:00"}
-{"file":"F:/workspace/VScode/项目/IAM/try-demo/cuslog/example/main.go:25","func":"main.main","level":"INFO","message":"custom log with json formatter","time":"2022-06-04T16:51:05+08:00"}
-{"file":"F:/workspace/VScode/项目/IAM/try-demo/cuslog/example/main.go:25","func":"main.main","level":"INFO","message":"custom log with json formatter","time":"2022-06-04T16:52:09+08:00"}
-{"file":"F:/workspace/VScode/项目/IAM/try-demo/cuslog/example/main.go:25","func":"main.main","level":"INFO","message":"custom log with json formatter","time":"2022-06-04T16:53:08+08:00"}
-{"file":"F:/workspace/VScode/项目/IAM/try-demo/cuslog/example/main.go:25","func":"main.main","level":"INFO","message":"custom log with json formatter","time":"2022-06-04T16:53:53+08:00"}
-{"file":"F:/workspace/VScode/项目/IAM/try-demo/cuslog/example/main.go:25","func":"main.main","level":"INFO","message":"custom log with json formatter","time":"2022-06-04T16:54:21+08:00"}
+{"file":"F:/workspace/VScode/项目/IAM/try-demo/cuslog/example/main.go:25","func":"main.main","level":"INFO","message":"custom log with json formatter","time":"2022-06-04T19:21:46+08:00"}
